@@ -1,0 +1,27 @@
+.footer-container{
+  text-align: center;
+  margin-top: 20px;
+  padding: 30px 10px;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  
+}
+
+.footer-logo{
+  color: gray;
+  font-size: 40px;
+}
+  
+.footer-logo-primary-span {
+  font-weight: bold;
+  color: #FF585A;
+}
+  
+.footer-logo-secondary-span {
+  font-weight: bold;
+  color: #1E3861;
+}
